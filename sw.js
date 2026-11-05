@@ -1,10 +1,10 @@
 // Service Worker «Словарного Ресурса»: полный офлайн после первого визита.
 // Список файлов ниже перезаписывает scripts/gen-sw.mjs при каждой сборке.
-const VERSION = 'slovarny-v2';
+const VERSION = 'slovarny-v3';
 const ASSETS = /*GEN-BEGIN*/[
   './',
-  'assets/index-C0oasZVo.js',
-  'assets/index-C3DUqDEd.css',
+  'assets/index-BCEfpIwU.js',
+  'assets/index-Drp8QlVv.css',
   'audio/apple.mp3',
   'audio/book.mp3',
   'audio/cat.mp3',
