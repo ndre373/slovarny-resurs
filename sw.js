@@ -1,10 +1,10 @@
 // Service Worker «Словарного Ресурса»: полный офлайн после первого визита.
 // Список файлов ниже перезаписывает scripts/gen-sw.mjs при каждой сборке.
-const VERSION = 'slovarny-v4';
+const VERSION = 'slovarny-v5';
 const ASSETS = /*GEN-BEGIN*/[
   './',
-  'assets/index-BFgUls9n.js',
-  'assets/index-BiJlDBPu.css',
+  'assets/index-Cnp_Sylj.css',
+  'assets/index-CoC--9iY.js',
   'audio/apple.mp3',
   'audio/book.mp3',
   'audio/cat.mp3',
@@ -27,6 +27,9 @@ const ASSETS = /*GEN-BEGIN*/[
   'audio/world.mp3',
   'icon-192.png',
   'icon-512.png',
+  'img/mascot/base.png',
+  'img/mascot/celebrate.png',
+  'img/mascot/support.png',
   'img/words/apple.jpg',
   'img/words/book.jpg',
   'img/words/cat.jpg',
