@@ -1,10 +1,10 @@
 // Service Worker «Словарного Ресурса»: полный офлайн после первого визита.
 // Список файлов ниже перезаписывает scripts/gen-sw.mjs при каждой сборке.
-const VERSION = 'slovarny-v3';
+const VERSION = 'slovarny-v4';
 const ASSETS = /*GEN-BEGIN*/[
   './',
-  'assets/index-BCEfpIwU.js',
-  'assets/index-Drp8QlVv.css',
+  'assets/index-BFgUls9n.js',
+  'assets/index-BiJlDBPu.css',
   'audio/apple.mp3',
   'audio/book.mp3',
   'audio/cat.mp3',
@@ -27,6 +27,26 @@ const ASSETS = /*GEN-BEGIN*/[
   'audio/world.mp3',
   'icon-192.png',
   'icon-512.png',
+  'img/words/apple.jpg',
+  'img/words/book.jpg',
+  'img/words/cat.jpg',
+  'img/words/day.jpg',
+  'img/words/dog.jpg',
+  'img/words/family.jpg',
+  'img/words/food.jpg',
+  'img/words/friend.jpg',
+  'img/words/hand.jpg',
+  'img/words/heart.jpg',
+  'img/words/house.jpg',
+  'img/words/love.jpg',
+  'img/words/music.jpg',
+  'img/words/night.jpg',
+  'img/words/sun.jpg',
+  'img/words/time.jpg',
+  'img/words/tree.jpg',
+  'img/words/water.jpg',
+  'img/words/work.jpg',
+  'img/words/world.jpg',
   'index.html',
   'manifest.webmanifest'
 ]/*GEN-END*/;
